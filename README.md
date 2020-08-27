@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 我太弱了只会打游戏（超大声
+# Just a gamer
 
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0cba8b0651b88aba04324d78de487842" target="_blank">🎮 Steam playtime leaderboard</a>
