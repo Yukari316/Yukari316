@@ -8,7 +8,7 @@
 🎮 Robocraft                        🕘 293 hrs 18 mins
 🎮 Space Engineers                  🕘 105 hrs 12 mins
 🎮 Borderlands 2                    🕘 84 hrs 35 mins
-🎮 Left 4 Dead 2                    🕘 78 hrs 23 mins
+🎮 Left 4 Dead 2                    🕘 79 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
