@@ -8,7 +8,7 @@
 🎮 Robocraft                        🕘 293 hrs 18 mins
 🎮 Space Engineers                  🕘 105 hrs 12 mins
 🎮 Borderlands 2                    🕘 84 hrs 35 mins
-🎮 The Witcher 3: Wild Hunt         🕘 82 hrs 41 mins
+🎮 The Witcher 3: Wild Hunt         🕘 83 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
