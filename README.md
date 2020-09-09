@@ -6,7 +6,7 @@
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 1349 hrs 53 mins
 🎮 Robocraft                        🕘 293 hrs 18 mins
-🎮 The Witcher 3: Wild Hunt         🕘 119 hrs 20 mins
+🎮 The Witcher 3: Wild Hunt         🕘 120 hrs 21 mins
 🎮 Space Engineers                  🕘 105 hrs 12 mins
 🎮 Borderlands 2                    🕘 84 hrs 35 mins
 ```
