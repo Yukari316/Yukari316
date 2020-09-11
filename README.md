@@ -4,9 +4,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0cba8b0651b88aba04324d78de487842" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Tom Clancy's Rainbow Six Siege   🕘 1350 hrs 40 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 1351 hrs 6 mins
 🎮 Robocraft                        🕘 293 hrs 18 mins
-🎮 The Witcher 3: Wild Hunt         🕘 127 hrs 49 mins
+🎮 The Witcher 3: Wild Hunt         🕘 128 hrs 19 mins
 🎮 Space Engineers                  🕘 105 hrs 12 mins
 🎮 Borderlands 2                    🕘 84 hrs 35 mins
 ```
