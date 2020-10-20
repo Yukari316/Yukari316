@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Just a gamer
+# 咱只是个游戏废宅（
 
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0cba8b0651b88aba04324d78de487842" target="_blank">🎮 Steam playtime leaderboard</a>
@@ -12,3 +12,7 @@
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+
+# 而且还很菜
+
+![Yukari316's github stats](https://github-readme-stats.vercel.app/api?username=Yukari316&show_icons=true)
