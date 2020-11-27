@@ -16,3 +16,7 @@
 # 而且还很菜
 
 ![Yukari316's github stats](https://github-readme-stats.vercel.app/api?username=Yukari316&show_icons=true)
+
+# 只会写点C#
+
+![Yukari316's most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukari316&layout=compact)
