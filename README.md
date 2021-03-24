@@ -1,5 +1,5 @@
 ### 恭喜你发现了一个神必饼干
-# 咱只是个很菜游戏废宅（
+## 咱只是个很菜游戏废宅（
 
 ~~打游戏带上我一个 有人和我玩R6吗~~
 
@@ -9,6 +9,13 @@
 
 老婆：头像和ID还不够明显吗？
 
-# GitHub Status
+## 正在摸(咕)的项目
+~~给个star吧(抱大腿~~
 
-![Yukari316's most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukari316&layout=compact&theme=tokyonight)![Yukari316's github stats](https://github-readme-stats.vercel.app/api?username=Yukari316&show_icons=true&theme=tokyonight)
+[Sora](https://github.com/Yukari316/Sora) | [AntiRainBot](https://github.com/Yukari316/AntiRainBot)
+
+## GitHub Status
+
+![Yukari316's github stats](https://github-readme-stats.vercel.app/api?username=Yukari316&show_icons=true&theme=tokyonight)
+
+![Yukari316's most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukari316&layout=compact&theme=tokyonight)
