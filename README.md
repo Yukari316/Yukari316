@@ -1,7 +1,13 @@
 ### 恭喜你发现了一个神必饼干
 
-![83635403_p0](https://user-images.githubusercontent.com/7535224/113701940-692e2b80-970b-11eb-9623-67d823fa923c.jpg)
-# 老婆！
+<h1 align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/7535224/113701940-692e2b80-970b-11eb-9623-67d823fa923c.jpg" alt="老婆！">
+  <br>
+  <font size="12">
+    老婆！
+  </font>
+</h1>
 
 ## 咱只是个很菜游戏废宅（
 
