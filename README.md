@@ -13,9 +13,3 @@
 ~~给个star吧(抱大腿~~
 
 [Sora](https://github.com/Yukari316/Sora) | [AntiRainBot](https://github.com/Yukari316/AntiRainBot)
-
-## GitHub Status
-
-![Yukari316's github stats](https://github-readme-stats.vercel.app/api?username=Yukari316&show_icons=true&theme=tokyonight)
-
-![Yukari316's most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukari316&layout=compact&theme=tokyonight)
