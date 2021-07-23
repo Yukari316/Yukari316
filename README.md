@@ -1,14 +1,15 @@
 ### 恭喜你发现了一个神必饼干
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/7535224/113701940-692e2b80-970b-11eb-9623-67d823fa923c.jpg" alt="老婆！">
+  <img src="https://user-images.githubusercontent.com/7535224/126739404-b82e0f8e-cbda-4f8e-934d-c811323356f8.jpg" alt="老婆！">
   <br>
   <font size="12">
     老婆！
   </font>
   <br>
 </h1>
-图片ID:83635403 作者:KOIO山猫
+
+图片ID:[84343424](https://www.pixiv.net/artworks/84343424) 作者:[Leria_V](https://www.pixiv.net/users/19440186)
 
 ## 咱只是个很菜游戏废宅（
 
