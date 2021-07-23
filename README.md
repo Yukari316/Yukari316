@@ -13,7 +13,7 @@
 
 ## 咱只是个很菜游戏废宅（
 
-~~打游戏带上我一个 有人和我玩R6吗~~
+~~打游戏带上我一个~~
 
 正在学习/使用的语言：[![](https://img.shields.io/badge/.Net-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![](https://img.shields.io/badge/Go-blue.svg?&style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 
