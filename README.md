@@ -9,6 +9,8 @@
   <br>
 </h1>
 
+这是我老婆：[Skadi](https://prts.wiki/w/%E6%96%AF%E5%8D%A1%E8%92%82)
+
 图片ID:[84343424](https://www.pixiv.net/artworks/84343424) 作者:[Leria_V](https://www.pixiv.net/users/19440186)
 
 ## ~~我什么都不会~~
@@ -20,4 +22,4 @@
 ## 正在摸(咕)的项目
 ~~给个star吧(抱大腿~~
 
-[Sora](https://github.com/Yukari316/Sora) | [AntiRainBot](https://github.com/Yukari316/AntiRainBot)
+[Sora](https://github.com/Yukari316/Sora) | [Skadi](https://github.com/DeepOceanSoft/Skadi)
