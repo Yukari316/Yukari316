@@ -15,7 +15,9 @@
 
 ## ~~我什么都不会~~
 
-正在学习/使用的语言：[![](https://img.shields.io/badge/.Net-%23239120.svg?&style=flat-square&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![](https://img.shields.io/badge/Go-blue.svg?&style=flat-square&logo=go&logoColor=white)](https://golang.org/) [![](https://img.shields.io/badge/C%2FC%2B%2B-blueviolet.svg?&style=flat-square&logo=cplusplus&logoColor=white)](https://en.cppreference.com/)
+正在学习/使用的语言：[![](https://img.shields.io/badge/.Net-%23239120.svg?&style=flat-square&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/) [![](https://img.shields.io/badge/Go-blue.svg?&style=flat-square&logo=go&logoColor=white)](https://golang.org/) [![](https://img.shields.io/badge/C%2FC%2B%2B-blueviolet.svg?&style=flat-square&logo=cplusplus&logoColor=white)](https://en.cppreference.com/)
+
+
 
 使用的平台/工具：[![](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/zh-hans/) [![](https://img.shields.io/badge/IDE-Goland-blue?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/go/) [![](https://img.shields.io/badge/IDE-Rider-black?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/rider/) [![](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/Tool-ReSharper-green?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/resharper/) [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
