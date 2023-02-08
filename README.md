@@ -13,3 +13,15 @@
 正在使用的工具：[![](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/zh-hans/) [![](https://img.shields.io/badge/IDE-Goland-blue?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/go/) [![](https://img.shields.io/badge/IDE-Rider-black?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/rider/) [![](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/Tool-ReSharper-green?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/resharper/) [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ~~是个鸽子~~
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Yukari316&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Yukari316&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yukari316&show_icons=true" />
+</picture>
