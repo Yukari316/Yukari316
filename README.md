@@ -1,4 +1,4 @@
-<img align="right" height="400" src="[https://github.com/user-attachments/assets/61276e9d-0f0e-4404-84e8-c1cd3143e76f](https://github.com/user-attachments/assets/3e96b3e9-b609-4389-9e78-6d2ef8983ca1)">
+<img align="right" height="400" src="https://github.com/user-attachments/assets/3e96b3e9-b609-4389-9e78-6d2ef8983ca1">
 
 ### 恭喜你发现了一个神必饼干
 
@@ -17,4 +17,3 @@
 [![](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/Tool-ReSharper-green?style=flat-square&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/resharper/) [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ~~是个鸽子~~
-![129752521_p0](https://github.com/user-attachments/assets/3e96b3e9-b609-4389-9e78-6d2ef8983ca1)
